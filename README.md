@@ -1,1 +1,1 @@
-![](login.jpg)
+![](login.png)
