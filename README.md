@@ -1,3 +1,3 @@
 # Login-System
-# I developed a simple login system using PHP
+# I developed a login system using PHP
 ![login](login.PNG)
